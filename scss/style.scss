@@ -1,0 +1,17 @@
+body {
+    background: #000;
+}
+
+%btn-base {
+    padding: 10px 20px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+.btn-follow {
+  @extend %btn-base;
+  border-color: #3498db;
+  background-color: #3498db;
+  color: white;
+}
