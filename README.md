@@ -1,4 +1,5 @@
 # Journey-Front SASS
-@https://workover.com.br/cursos/149/aulas/2487
+
+@https://workover.com.br/cursos/
 
 @https://sass-lang.com/documentation/
